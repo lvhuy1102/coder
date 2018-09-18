@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\0b3b887fd16cbc2dcb37873f1a654659f646bec7\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\0b3b887fd16cbc2dcb37873f1a654659f646bec7\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\0b3b887fd16cbc2dcb37873f1a654659f646bec7\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\17bee4d6dac55f681b3b56978cd3196a99b2fbee\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\0b3b887fd16cbc2dcb37873f1a654659f646bec7\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

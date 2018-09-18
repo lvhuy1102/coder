@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 55,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 48,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 48,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 54,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\values-xhdpi\\dimensions.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 47,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 47,
+                        "endOffset": 102
+                    }
+                }
+            }
+        ]
+    }
+]

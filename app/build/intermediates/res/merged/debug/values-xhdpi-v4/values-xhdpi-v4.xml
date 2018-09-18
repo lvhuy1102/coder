@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dialog_open_time_height">420dp</dimen>
+    <dimen name="height_image_map">100dp</dimen>
+    <dimen name="marginTopSearchActivity">40dp</dimen>
+    <dimen name="width_image_map">100dp</dimen>
+</resources>

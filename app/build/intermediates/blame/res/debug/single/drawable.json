@@ -1,0 +1,650 @@
+[
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_select_right.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_button_select_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\c4d63cb7b6bf3465413c2ced364784d8edaa4fe3\\output\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\4b133a47b9edd2356dd30a9b5f2d2708e1f06931\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_star_unselected.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_star_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_favorite_new.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_favorite_new.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_account_white_64.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_account_white_64.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_settings_preferences.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_settings_preferences.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_livechat.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_livechat.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_shopping_cart_white_64.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_shopping_cart_white_64.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_un_favourite.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_un_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\line.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_checked.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\17bee4d6dac55f681b3b56978cd3196a99b2fbee\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selected.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\tab_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\4b133a47b9edd2356dd30a9b5f2d2708e1f06931\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_account_info.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_account_info.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\0b3b887fd16cbc2dcb37873f1a654659f646bec7\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_verified.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_verified.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home_variant_gray_64.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_home_variant_gray_64.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\4b133a47b9edd2356dd30a9b5f2d2708e1f06931\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\customize_seekbar_thumb.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\customize_seekbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_call_white.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_call_white.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_blue_button.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_blue_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_twitter.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\4b133a47b9edd2356dd30a9b5f2d2708e1f06931\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_account_grey600_36dp.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_account_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_arrow.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\indicator_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_featured.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_featured.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_star_unselected_small.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_star_unselected_small.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_custom_spinner.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_custom_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\customize_seekbar_progress.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\customize_seekbar_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_history.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_history.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\c4d63cb7b6bf3465413c2ced364784d8edaa4fe3\\output\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_facebook.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_map_unselected.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_map_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_not_select_left.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_button_not_select_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_border.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\toast_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_feedback_new.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_feedback_new.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\0b3b887fd16cbc2dcb37873f1a654659f646bec7\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_map_selected.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_map_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_close_grey600_36dp.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_close_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_chevron_right_grey600_36dp.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_chevron_right_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\0b3b887fd16cbc2dcb37873f1a654659f646bec7\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_favourite_green.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_favourite_green.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rating_bar_style.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\rating_bar_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_comments.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_comments.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_feedback.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_feedback.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_new.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\splash_new.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_image_available.jpg",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\no_image_available.jpg"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_ptr_flip.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\default_ptr_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mail.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_kengang.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_kengang.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_history_new.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_history_new.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_selected.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\tab_bg_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_product_white.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_product_white.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\4b133a47b9edd2356dd30a9b5f2d2708e1f06931\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_layout_radius.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\custom_layout_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_image_available_horizontal.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\no_image_available_horizontal.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search_gray_64.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_search_gray_64.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_star_selected_small.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_star_selected_small.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_splash.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\c4d63cb7b6bf3465413c2ced364784d8edaa4fe3\\output\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_white.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_button_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_category.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\0b3b887fd16cbc2dcb37873f1a654659f646bec7\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_unselected.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_list_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_logo_new.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\icon_logo_new.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_key_grey600_36dp.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_key_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home_variant_white_64.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_home_variant_white_64.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_logo_new3.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_logo_new3.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_star_selected.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_star_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_select_left.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_button_select_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dropdown.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_dropdown.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_ptr_rotate.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_map.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\17bee4d6dac55f681b3b56978cd3196a99b2fbee\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search_white_64.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_search_white_64.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\4b133a47b9edd2356dd30a9b5f2d2708e1f06931\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_facebook.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\logo_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_loadmore_button.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_loadmore_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_black_transparent.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_black_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_unselected.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\tab_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_comment_plus_outline_white_24dp.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_comment_plus_outline_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_favourite.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\4b133a47b9edd2356dd30a9b5f2d2708e1f06931\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_thumb_down_white_24dp.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_thumb_down_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_map_marker.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_map_marker.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_not_select_right.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\bg_button_not_select_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_editprofile_new.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_editprofile_new.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_account_gray_64.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_account_gray_64.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_logout_new.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_logout_new.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\0b3b887fd16cbc2dcb37873f1a654659f646bec7\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_logo_new2.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_logo_new2.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rating_bar_style_medium.xml",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\rating_bar_style_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_shopping_cart_gray_64.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_shopping_cart_gray_64.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\c4d63cb7b6bf3465413c2ced364784d8edaa4fe3\\output\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_selected.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_list_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_favourite_un_selected.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_favourite_un_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_phone_green.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_phone_green.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_backs.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_backs.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_log_out.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_log_out.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_cart.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_add_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tic.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_tic.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_history_grey600_24dp.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_history_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_setting_new.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_setting_new.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\17bee4d6dac55f681b3b56978cd3196a99b2fbee\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\18473df02c02d8b451706f9798bcf7494532a665\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_website.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_website.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\17bee4d6dac55f681b3b56978cd3196a99b2fbee\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\4b133a47b9edd2356dd30a9b5f2d2708e1f06931\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_chevron_green_right.png",
+        "source": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\drawable\\ic_chevron_green_right.png"
+    },
+    {
+        "merged": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\2c1181a617cbe91da67969bcc479c9de3602b31c\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    }
+]

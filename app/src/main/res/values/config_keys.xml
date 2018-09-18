@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<string name="google_api_key">AIzaSyCdmnEYzPDrAi6CsqjC305DnACUmy13hZw</string>-->
+    <string name="google_api_key">AIzaSyBoRtGnJ9VJ8DfJK8E8lgiESjKkOyg7ywk</string> <!--hicom.developer@gmail.com-->
+    <!--string name="google_api_key">AIzaSyACaTBENQWu0PSqj5WWqaVubZnGiyOL1bk</string>-->
+    <string name="app_id">1000696709976053</string> <!--FB: hicom.register@gmail.com-->
+
+</resources>

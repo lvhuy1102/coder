@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\Desktop\marketPlace\marketplace_android_src_20180725\app\libs\PayPalAndroidSDK.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4f1a7487f984f3f98599330fb406c05c7a62391">
+        <dex dex="C:\Users\LeQuan\Desktop\marketPlace\marketplace_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\2\PayPalAndroidSDK_ba5f43ea8a23c32931a904192dcce35c96f66c94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\Desktop\marketPlace\marketplace_android_src_20180725\app\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="C:\Users\LeQuan\Desktop\marketPlace\marketplace_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.apache.http.legacy_2d3c5e1b75fb072c64c8a3a009fdc79f3fe9ab5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\Desktop\marketPlace\marketplace_android_src_20180725\app\libs\android-query-full.0.26.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5ab405d9f4eaf5ddd615967cd35650657b758d40">
+        <dex dex="C:\Users\LeQuan\Desktop\marketPlace\marketplace_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-query-full.0.26.8_ceb24080405c9b6ac9c25556fab7d3a259302168\classes.dex" />
+    </item>
+
+</items>

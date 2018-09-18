@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 58,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 47,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 47,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 48,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 48,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 211,
+                    "endColumn": 55,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 475,
+                        "endColumn": 55,
+                        "endOffset": 526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 53,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 420,
+                        "endColumn": 53,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 53,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "C:\\Users\\LeQuan\\Desktop\\marketPlace\\marketplace_android_src_20180725\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 53,
+                        "endOffset": 414
+                    }
+                }
+            }
+        ]
+    }
+]
