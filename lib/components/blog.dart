@@ -384,21 +384,21 @@ class MinimalMenuBar extends StatelessWidget {
                             "HOME",
                           ),
                         ),
-                        TextButton(
-                          onPressed: () {},
-                          style: menuButtonStyle,
-                          child: const Text(
-                            "PORTFOLIO",
-                          ),
-                        ),
-                        TextButton(
-                          onPressed: () =>
-                              Navigator.pushNamed(context, TypographyPage.name),
-                          style: menuButtonStyle,
-                          child: const Text(
-                            "STYLE",
-                          ),
-                        ),
+                        // TextButton(
+                        //   onPressed: () {},
+                        //   style: menuButtonStyle,
+                        //   child: const Text(
+                        //     "PORTFOLIO",
+                        //   ),
+                        // ),
+                        // TextButton(
+                        //   onPressed: () =>
+                        //       Navigator.pushNamed(context, TypographyPage.name),
+                        //   style: menuButtonStyle,
+                        //   child: const Text(
+                        //     "STYLE",
+                        //   ),
+                        // ),
                         TextButton(
                           onPressed: () {},
                           style: menuButtonStyle,
